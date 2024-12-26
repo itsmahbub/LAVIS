@@ -7,7 +7,7 @@ ftfy
 iopath
 ipython
 omegaconf
-opencv-python-headless==4.5.5.64
+opencv-python-headless
 opendatasets
 packaging
 pandas
@@ -35,5 +35,5 @@ peft
 
 easydict==1.9
 pyyaml_env_tag==0.1
-open3d==0.13.0
+open3d
 h5py
